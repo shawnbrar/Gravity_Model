@@ -1,0 +1,442 @@
+GeoName,county_state,variable,value,rent_ppp
+Alabama,AL,2011,13.4,63.1
+Arizona,AZ,2011,24.1,94.2
+Arkansas,AR,2011,7.1,63.1
+California,CA,2011,17.3,149.1
+Colorado,CO,2011,5.5,106.5
+Connecticut,CT,2011,10.1,118
+Delaware,DE,2011,7.8,98.7
+District of Columbia,DC,2011,10.2,153.2
+Florida,FL,2011,10,106.9
+Georgia,GA,2011,11.4,80.5
+Idaho,ID,2011,9.6,77
+Illinois,IL,2011,6.4,101.4
+Indiana,IN,2011,9.1,76.9
+Iowa,IA,2011,7,74.5
+Kansas,KS,2011,9.3,75.3
+Kentucky,KY,2011,6.5,67
+Louisiana,LA,2011,8.9,76.2
+Maine,ME,2011,7.2,95.4
+Maryland,MD,2011,10.7,125.7
+Massachusetts,MA,2011,7.7,124.4
+Michigan,MI,2011,11.7,82.2
+Minnesota,MN,2011,5.7,93.7
+Mississippi,MS,2011,11.8,63.6
+Missouri,MO,2011,10.5,74.2
+Montana,MT,2011,5.2,79.2
+Nebraska,NE,2011,4.3,74.6
+Nevada,NV,2011,13.5,104.4
+New Hampshire,NH,2011,4.6,119.1
+New Jersey,NJ,2011,9.1,138
+New Mexico,NM,2011,8.6,83.4
+New York,NY,2011,7.6,134.7
+North Carolina,NC,2011,11.3,78.7
+North Dakota,ND,2011,1.4,73.7
+Ohio,OH,2011,9.2,73.9
+Oklahoma,OK,2011,4.4,69.3
+Oregon,OR,2011,9.3,98.7
+Pennsylvania,PA,2011,7.3,89
+Rhode Island,RI,2011,10,105.4
+South Carolina,SC,2011,10.8,76.6
+South Dakota,SD,2011,6.3,64.9
+Tennessee,TN,2011,7.7,74
+Texas,TX,2011,14.5,88.9
+Utah,UT,2011,8.2,92.1
+Vermont,VT,2011,5.5,113.9
+Virginia,VA,2011,7.4,113.6
+Washington,WA,2011,9.7,110.1
+West Virginia,WV,2011,8.6,63.1
+Wisconsin,WI,2011,8.1,88
+Wyoming,WY,2011,4.8,94.2
+Alabama,AL,2012,10.2,64.4
+Arizona,AZ,2012,23.9,93.8
+Arkansas,AR,2012,6.4,63.2
+California,CA,2012,15.6,147.5
+Colorado,CO,2012,5.2,106.3
+Connecticut,CT,2012,9.5,118.9
+Delaware,DE,2012,7.1,98.8
+District of Columbia,DC,2012,9,157.2
+Florida,FL,2012,9.1,104.8
+Georgia,GA,2012,10,79.9
+Idaho,ID,2012,8.7,78.8
+Illinois,IL,2012,6,100.4
+Indiana,IN,2012,7.8,75.7
+Iowa,IA,2012,5.4,74.6
+Kansas,KS,2012,8.4,74.9
+Kentucky,KY,2012,5.4,68.2
+Louisiana,LA,2012,8.1,77.6
+Maine,ME,2012,6.7,99.4
+Maryland,MD,2012,10,124.9
+Massachusetts,MA,2012,7.2,121.2
+Michigan,MI,2012,10.9,82.4
+Minnesota,MN,2012,5.1,95.6
+Mississippi,MS,2012,11,62.4
+Missouri,MO,2012,8.8,74.1
+Montana,MT,2012,4.5,80.3
+Nebraska,NE,2012,3.6,76
+Nevada,NV,2012,12.2,99
+New Hampshire,NH,2012,4.4,123.1
+New Jersey,NJ,2012,8.8,136.9
+New Mexico,NM,2012,8.5,83.5
+New York,NY,2012,7.9,135.1
+North Carolina,NC,2012,10.9,79.3
+North Dakota,ND,2012,1.1,79.2
+Ohio,OH,2012,6.8,73.7
+Oklahoma,OK,2012,3.4,70.4
+Oregon,OR,2012,8.5,99.1
+Pennsylvania,PA,2012,7.3,89.6
+Rhode Island,RI,2012,9.5,101.6
+South Carolina,SC,2012,9.1,76.6
+South Dakota,SD,2012,6.6,70.9
+Tennessee,TN,2012,6.5,75.6
+Texas,TX,2012,13.4,89.4
+Utah,UT,2012,5.6,92.1
+Vermont,VT,2012,4.5,116.1
+Virginia,VA,2012,6.5,114.5
+Washington,WA,2012,9.7,110.9
+West Virginia,WV,2012,8.9,63.2
+Wisconsin,WI,2012,7.4,87.6
+Wyoming,WY,2012,4.2,90.7
+Alabama,AL,2013,9.5,63.6
+Arizona,AZ,2013,25.6,91.8
+Arkansas,AR,2013,6.4,63.2
+California,CA,2013,13.3,145.8
+Colorado,CO,2013,4.7,109.6
+Connecticut,CT,2013,9,115.6
+Delaware,DE,2013,6.7,98
+District of Columbia,DC,2013,8.4,156.4
+Florida,FL,2013,8,104.5
+Georgia,GA,2013,9.2,79.6
+Idaho,ID,2013,8.2,76.9
+Illinois,IL,2013,7.1,100.7
+Indiana,IN,2013,6.8,76.2
+Iowa,IA,2013,4.5,76.1
+Kansas,KS,2013,7.9,76.7
+Kentucky,KY,2013,5.2,69.6
+Louisiana,LA,2013,7.9,76.9
+Maine,ME,2013,6.4,97.4
+Maryland,MD,2013,9.6,125.9
+Massachusetts,MA,2013,7.1,123.3
+Michigan,MI,2013,11,82
+Minnesota,MN,2013,5,95.5
+Mississippi,MS,2013,10.9,64.1
+Missouri,MO,2013,8.4,75.5
+Montana,MT,2013,4.3,83.5
+Nebraska,NE,2013,3.5,76.1
+Nevada,NV,2013,10.8,97.5
+New Hampshire,NH,2013,4.2,122
+New Jersey,NJ,2013,7.8,134.8
+New Mexico,NM,2013,8.3,83.6
+New York,NY,2013,7,135.1
+North Carolina,NC,2013,9.3,79.9
+North Dakota,ND,2013,1.2,83.1
+Ohio,OH,2013,6.3,73.8
+Oklahoma,OK,2013,3.4,70.7
+Oregon,OR,2013,7.4,100
+Pennsylvania,PA,2013,6.5,90.4
+Rhode Island,RI,2013,8.8,99.8
+South Carolina,SC,2013,7.5,75.8
+South Dakota,SD,2013,6.1,66.7
+Tennessee,TN,2013,6.3,75.3
+Texas,TX,2013,14.6,90.4
+Utah,UT,2013,5,93.3
+Vermont,VT,2013,4.2,113.3
+Virginia,VA,2013,5.7,113.8
+Washington,WA,2013,9.8,111.3
+West Virginia,WV,2013,9.1,62.9
+Wisconsin,WI,2013,7.2,86.2
+Wyoming,WY,2013,3.6,89.9
+Alabama,AL,2014,8.6,63.8
+Arizona,AZ,2014,22.9,91.4
+Arkansas,AR,2014,5.5,62.9
+California,CA,2014,11.3,147.4
+Colorado,CO,2014,3.3,111.3
+Connecticut,CT,2014,7.4,116.4
+Delaware,DE,2014,5.6,101.8
+District of Columbia,DC,2014,7.7,161.6
+Florida,FL,2014,6.9,105
+Georgia,GA,2014,7.9,79
+Idaho,ID,2014,6,79.6
+Illinois,IL,2014,5.6,99.5
+Indiana,IN,2014,5.1,75.6
+Iowa,IA,2014,4.1,75.1
+Kansas,KS,2014,6.8,75.6
+Kentucky,KY,2014,4.5,68
+Louisiana,LA,2014,7.4,77.7
+Maine,ME,2014,5.1,92.7
+Maryland,MD,2014,8.4,126.5
+Massachusetts,MA,2014,6.1,123.1
+Michigan,MI,2014,8.6,82
+Minnesota,MN,2014,4.2,95.6
+Mississippi,MS,2014,10.1,63.4
+Missouri,MO,2014,7.6,74.5
+Montana,MT,2014,3.7,83.8
+Nebraska,NE,2014,3.1,75.8
+Nevada,NV,2014,8.9,95.2
+New Hampshire,NH,2014,3.5,119.4
+New Jersey,NJ,2014,6.3,136.3
+New Mexico,NM,2014,7.8,83.8
+New York,NY,2014,5.7,135.8
+North Carolina,NC,2014,6.6,79.8
+North Dakota,ND,2014,1.2,82.4
+Ohio,OH,2014,4.4,72.9
+Oklahoma,OK,2014,3,71.3
+Oregon,OR,2014,6.3,101.2
+Pennsylvania,PA,2014,5.5,88.7
+Rhode Island,RI,2014,7.2,101.7
+South Carolina,SC,2014,6.1,75.7
+South Dakota,SD,2014,5.7,67.3
+Tennessee,TN,2014,5.3,73.7
+Texas,TX,2014,12.3,91.4
+Utah,UT,2014,4.2,92
+Vermont,VT,2014,3.7,118.3
+Virginia,VA,2014,5,112.3
+Washington,WA,2014,8.4,112.7
+West Virginia,WV,2014,9.4,64.4
+Wisconsin,WI,2014,6.6,86.6
+Wyoming,WY,2014,3.5,93.5
+Alabama,AL,2015,7.6,62.8
+Arizona,AZ,2015,21.8,91.4
+Arkansas,AR,2015,5,63.9
+California,CA,2015,9.3,147.3
+Colorado,CO,2015,2.5,114.7
+Connecticut,CT,2015,6.2,116.8
+Delaware,DE,2015,4.9,97.5
+District of Columbia,DC,2015,6.9,154.3
+Florida,FL,2015,6,105.3
+Georgia,GA,2015,6.6,81.1
+Idaho,ID,2015,5.4,78.7
+Illinois,IL,2015,5.1,99.4
+Indiana,IN,2015,4.1,74.8
+Iowa,IA,2015,3.9,75.3
+Kansas,KS,2015,6,74.5
+Kentucky,KY,2015,3.5,68.9
+Louisiana,LA,2015,8.4,76.2
+Maine,ME,2015,3.9,95.7
+Maryland,MD,2015,7.4,123.9
+Massachusetts,MA,2015,5.1,123.2
+Michigan,MI,2015,6.8,81.1
+Minnesota,MN,2015,3.8,95
+Mississippi,MS,2015,8.3,63.1
+Missouri,MO,2015,6.2,73.6
+Montana,MT,2015,3.4,85.5
+Nebraska,NE,2015,2.9,76.3
+Nevada,NV,2015,7.3,95.2
+New Hampshire,NH,2015,2.8,118.1
+New Jersey,NJ,2015,5.3,132.8
+New Mexico,NM,2015,7.5,81.1
+New York,NY,2015,5,133.9
+North Carolina,NC,2015,5.8,78.7
+North Dakota,ND,2015,2.4,86.3
+Ohio,OH,2015,3.7,72.9
+Oklahoma,OK,2015,5.1,72
+Oregon,OR,2015,5.2,101.5
+Pennsylvania,PA,2015,4.8,88.7
+Rhode Island,RI,2015,5.6,100.2
+South Carolina,SC,2015,5.4,76.3
+South Dakota,SD,2015,5,68.5
+Tennessee,TN,2015,4.5,73.7
+Texas,TX,2015,11.3,92.9
+Utah,UT,2015,4,91.1
+Vermont,VT,2015,3.2,117
+Virginia,VA,2015,4.3,111.7
+Washington,WA,2015,7.8,113.1
+West Virginia,WV,2015,9.4,66
+Wisconsin,WI,2015,5.4,85.8
+Wyoming,WY,2015,3.4,91.5
+Alabama,AL,2016,7.1,63.1
+Arizona,AZ,2016,19.1,91.7
+Arkansas,AR,2016,4.5,63.7
+California,CA,2016,8.6,148.2
+Colorado,CO,2016,2,117.5
+Connecticut,CT,2016,5.3,115.2
+Delaware,DE,2016,4.5,97.1
+District of Columbia,DC,2016,6.2,145.1
+Florida,FL,2016,5.2,106
+Georgia,GA,2016,5.9,81.1
+Idaho,ID,2016,5.3,77.5
+Illinois,IL,2016,5.5,98.4
+Indiana,IN,2016,3.8,73.7
+Iowa,IA,2016,4.1,75.1
+Kansas,KS,2016,5.5,74.5
+Kentucky,KY,2016,3.2,67.1
+Louisiana,LA,2016,7.8,76.1
+Maine,ME,2016,3.4,94.3
+Maryland,MD,2016,6.4,121.8
+Massachusetts,MA,2016,4.3,122.8
+Michigan,MI,2016,5.9,80.9
+Minnesota,MN,2016,3.8,95.3
+Mississippi,MS,2016,7.5,64.9
+Missouri,MO,2016,5.4,73
+Montana,MT,2016,3.7,80.9
+Nebraska,NE,2016,2.7,76.1
+Nevada,NV,2016,6.2,94.6
+New Hampshire,NH,2016,2.3,118.1
+New Jersey,NJ,2016,4.6,132.4
+New Mexico,NM,2016,7.3,80.1
+New York,NY,2016,4.5,133
+North Carolina,NC,2016,5.2,78.5
+North Dakota,ND,2016,4.4,82.7
+Ohio,OH,2016,3.7,72.7
+Oklahoma,OK,2016,6,70.1
+Oregon,OR,2016,4.5,105.9
+Pennsylvania,PA,2016,4.6,88.7
+Rhode Island,RI,2016,4.8,100.4
+South Carolina,SC,2016,4.5,77.1
+South Dakota,SD,2016,4.6,69.2
+Tennessee,TN,2016,3.9,75.7
+Texas,TX,2016,13.9,93.7
+Utah,UT,2016,3.7,94.2
+Vermont,VT,2016,2.8,113
+Virginia,VA,2016,3.9,109.6
+Washington,WA,2016,7.4,116
+West Virginia,WV,2016,10.2,63.1
+Wisconsin,WI,2016,4.6,84.7
+Wyoming,WY,2016,5,92.8
+Alabama,AL,2017,5.2,63.1
+Arizona,AZ,2017,17.2,92.9
+Arkansas,AR,2017,4.1,62
+California,CA,2017,7.5,150.5
+Colorado,CO,2017,1.5,120.6
+Connecticut,CT,2017,4.8,113.1
+Delaware,DE,2017,4.4,97
+District of Columbia,DC,2017,6.1,154.5
+Florida,FL,2017,4.4,106.7
+Georgia,GA,2017,4.9,81.5
+Idaho,ID,2017,4.6,77.7
+Illinois,IL,2017,4.4,97.4
+Indiana,IN,2017,2.9,73.8
+Iowa,IA,2017,3.4,75.2
+Kansas,KS,2017,5.2,74.2
+Kentucky,KY,2017,3.2,67.1
+Louisiana,LA,2017,6.4,75.2
+Maine,ME,2017,3,92.5
+Maryland,MD,2017,6.1,121.7
+Massachusetts,MA,2017,4,121.7
+Michigan,MI,2017,5.5,81
+Minnesota,MN,2017,3.4,96
+Mississippi,MS,2017,6.3,62.7
+Missouri,MO,2017,4.5,73
+Montana,MT,2017,3.6,83.1
+Nebraska,NE,2017,2.6,74.7
+Nevada,NV,2017,5,96.7
+New Hampshire,NH,2017,2.3,116.6
+New Jersey,NJ,2017,4.1,129.9
+New Mexico,NM,2017,6.6,80.1
+New York,NY,2017,4.4,131.7
+North Carolina,NC,2017,4.6,79.7
+North Dakota,ND,2017,2.5,78.2
+Ohio,OH,2017,3.7,72
+Oklahoma,OK,2017,3.9,69.9
+Oregon,OR,2017,3.7,106.4
+Pennsylvania,PA,2017,4.4,86.4
+Rhode Island,RI,2017,4,94.8
+South Carolina,SC,2017,3.9,77.2
+South Dakota,SD,2017,5,70.2
+Tennessee,TN,2017,3,76.2
+Texas,TX,2017,11.3,94.4
+Utah,UT,2017,3.5,93.9
+Vermont,VT,2017,2.6,116.4
+Virginia,VA,2017,3.6,108.8
+Washington,WA,2017,6.7,119.4
+West Virginia,WV,2017,7.1,61.4
+Wisconsin,WI,2017,3.7,84.2
+Wyoming,WY,2017,4.1,85.6
+Alabama,AL,2018,4.2,61.8
+Arizona,AZ,2018,17,94.3
+Arkansas,AR,2018,4.1,60.8
+California,CA,2018,6.5,152.6
+Colorado,CO,2018,1.9,120.7
+Connecticut,CT,2018,4.3,109.5
+Delaware,DE,2018,3.7,92.4
+District of Columbia,DC,2018,5.7,146.2
+Florida,FL,2018,3.9,107.9
+Georgia,GA,2018,4.5,82.1
+Idaho,ID,2018,4.1,80.1
+Illinois,IL,2018,4,96.5
+Indiana,IN,2018,2.8,74.3
+Iowa,IA,2018,2.7,74.3
+Kansas,KS,2018,4.8,75.3
+Kentucky,KY,2018,3,67.8
+Louisiana,LA,2018,6.1,73.8
+Maine,ME,2018,2.8,97.8
+Maryland,MD,2018,5.6,119.2
+Massachusetts,MA,2018,3.7,124
+Michigan,MI,2018,4.7,80.2
+Minnesota,MN,2018,3.1,94.7
+Mississippi,MS,2018,5.7,63.2
+Missouri,MO,2018,3.9,72.3
+Montana,MT,2018,3.4,82.8
+Nebraska,NE,2018,2.5,75.7
+Nevada,NV,2018,4.6,99.3
+New Hampshire,NH,2018,2.2,113.7
+New Jersey,NJ,2018,3.7,131.2
+New Mexico,NM,2018,5.4,76.4
+New York,NY,2018,3.8,131.5
+North Carolina,NC,2018,3.7,79
+North Dakota,ND,2018,1.9,80.9
+Ohio,OH,2018,3.2,72
+Oklahoma,OK,2018,2.6,70.2
+Oregon,OR,2018,3.6,107.8
+Pennsylvania,PA,2018,4,87.3
+Rhode Island,RI,2018,3.6,95.6
+South Carolina,SC,2018,3.2,76.8
+South Dakota,SD,2018,5,69.9
+Tennessee,TN,2018,2.8,75.1
+Texas,TX,2018,9.7,94.5
+Utah,UT,2018,3.3,96.1
+Vermont,VT,2018,2.3,112.6
+Virginia,VA,2018,2.9,108.8
+Washington,WA,2018,6.2,123.8
+West Virginia,WV,2018,6.9,63
+Wisconsin,WI,2018,3.5,83.7
+Wyoming,WY,2018,3.5,80.7
+Alabama,AL,2019,3.3,61.9
+Arizona,AZ,2019,16.8,94.1
+Arkansas,AR,2019,4,60.9
+California,CA,2019,6.2,153.6
+Colorado,CO,2019,1.5,124.7
+Connecticut,CT,2019,3.9,107.6
+Delaware,DE,2019,3.7,95
+District of Columbia,DC,2019,5.4,146.4
+Florida,FL,2019,3.6,109.4
+Georgia,GA,2019,3.9,82.6
+Idaho,ID,2019,3.9,80.6
+Illinois,IL,2019,3.6,94.7
+Indiana,IN,2019,2.9,72.8
+Iowa,IA,2019,2.6,73
+Kansas,KS,2019,4.3,72.7
+Kentucky,KY,2019,3,67.7
+Louisiana,LA,2019,6.1,72.1
+Maine,ME,2019,2.4,91.7
+Maryland,MD,2019,5,119.3
+Massachusetts,MA,2019,3.3,124.3
+Michigan,MI,2019,4.4,80.2
+Minnesota,MN,2019,3.7,96.1
+Mississippi,MS,2019,6.4,60
+Missouri,MO,2019,3.9,72.4
+Montana,MT,2019,3.3,85.3
+Nebraska,NE,2019,2.6,75.6
+Nevada,NV,2019,3.9,101.8
+New Hampshire,NH,2019,2.3,113.9
+New Jersey,NJ,2019,3.2,130.7
+New Mexico,NM,2019,5.5,78.1
+New York,NY,2019,3.6,130
+North Carolina,NC,2019,3.6,78.8
+North Dakota,ND,2019,1.8,75.2
+Ohio,OH,2019,3.1,71.7
+Oklahoma,OK,2019,2.7,68.6
+Oregon,OR,2019,3.4,109.7
+Pennsylvania,PA,2019,3.9,86.8
+Rhode Island,RI,2019,3.2,101.2
+South Carolina,SC,2019,2.7,78.2
+South Dakota,SD,2019,5,69
+Tennessee,TN,2019,2.7,76.8
+Texas,TX,2019,8.4,94.9
+Utah,UT,2019,2.9,98.2
+Vermont,VT,2019,2,109.8
+Virginia,VA,2019,2.7,107.4
+Washington,WA,2019,7,122.9
+West Virginia,WV,2019,7,60.9
+Wisconsin,WI,2019,3.7,83.7
+Wyoming,WY,2019,3,82.4
